@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-socratic-tutor": {
+      "source": "bstellato/ai-teaching-skills",
+      "sourceType": "github",
+      "skillPath": "ai-socratic-tutor/SKILL.md",
+      "computedHash": "560a0192e2e91d4dad12fb63e4ebbde68da0a9e874771314479548f5a2ab229d"
+    },
+    "ai-solution-study": {
+      "source": "bstellato/ai-teaching-skills",
+      "sourceType": "github",
+      "skillPath": "ai-solution-study/SKILL.md",
+      "computedHash": "2e689cf25a495584eb9efbaaae89592cc086ea2050b375201e6bcd6b45f311dd"
+    }
+  }
+}
